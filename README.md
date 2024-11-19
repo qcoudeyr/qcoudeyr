@@ -10,9 +10,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software developer oriented AdminSys/DevOps
 
 <div style="text-align:centered">
-<img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fqcoudeyr.dev%2F&style=for-the-badge&logo=nextdotjs&labelColor=%23000000&link=https%3A%2F%2Fqcoudeyr.dev">
-<img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fquentincoudeyre">
-<img alt="Static Badge" src="https://img.shields.io/badge/PERPIGNAN-000000?style=for-the-badge&logo=42&link=https%3A%2F%2Fprofile.intra.42.fr%2Fusers%2Fqcoudeyr">
+<a href="https://qcoudeyr.dev/"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fqcoudeyr.dev%2F&style=for-the-badge&logo=nextdotjs&labelColor=%23000000"></a>
+<a href="https://www.linkedin.com/in/quentincoudeyre"><img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=linkedin"></a>
+<a href="https://profile.intra.42.fr/users/qcoudeyr"><img alt="Static Badge" src="https://img.shields.io/badge/PERPIGNAN-000000?style=for-the-badge&logo=42"></a>
 </div>
 
 ## 🚀 About Me
