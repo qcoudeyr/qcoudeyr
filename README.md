@@ -10,10 +10,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software developer oriented AdminSys/DevOps
 
 <div style="text-align:centered">
-<a href="https://qcoudeyr.dev/"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fqcoudeyr.dev%2F&style=for-the-badge&logo=nextdotjs&labelColor=%23000000"></a>
-<a href="https://www.linkedin.com/in/quentincoudeyre"><img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=linkedin"></a>
-<a href="https://profile.intra.42.fr/users/qcoudeyr"><img alt="Static Badge" src="https://img.shields.io/badge/PERPIGNAN-000000?style=for-the-badge&logo=42"></a>
+    <a href="https://qcoudeyr.dev/"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fqcoudeyr.dev%2F&style=for-the-badge&logo=nextdotjs&labelColor=%23000000"></a>
+    <a href="https://www.linkedin.com/in/quentincoudeyre"><img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=linkedin"></a>
+    <a href="https://profile.intra.42.fr/users/qcoudeyr"><img alt="Static Badge" src="https://img.shields.io/badge/PERPIGNAN-000000?style=for-the-badge&logo=42"></a>
 </div>
+
+## My Badges
+
+<a href="https://tryhackme.com/r/p/Qcoudeyr"><img src="https://tryhackme-badges.s3.amazonaws.com/Qcoudeyr.png" alt="Your Image Badge" /></a>
 
 ## 🚀 About Me
 
