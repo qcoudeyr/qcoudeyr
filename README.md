@@ -15,10 +15,6 @@ Software developer oriented AdminSys/DevOps
     <a href="https://profile.intra.42.fr/users/qcoudeyr"><img alt="Static Badge" src="https://img.shields.io/badge/PERPIGNAN-000000?style=for-the-badge&logo=42"></a>
 </div>
 
-## My Badges
-
-<a href="https://tryhackme.com/r/p/Qcoudeyr"><img src="https://tryhackme-badges.s3.amazonaws.com/Qcoudeyr.png" alt="Your Image Badge" /></a>
-
 ## 🚀 About Me
 
 I'm from 42 Perpignan School.![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Creu_occitana_transparent.svg/20px-Creu_occitana_transparent.svg.png)
@@ -28,7 +24,7 @@ I have 2,147,483,647 project in mind but i don't thinks that i will achieve to f
 *   🌍  I'm based in France for the moment... (🤔 Switzerland ???)
 *   🖥️  See my portfolio at [qcoudeyr.dev](https://qcoudeyr.dev)
 *   ✉️  You can contact me at [qcoudeyr@pm.me](mailto:qcoudeyr@pm.me)
-*   🚀  I'm currently working on my [Website](https://qcoudeyr.dev/)
+*   🚀  I'm currently working on [TryHackMe](https://tryhackme.com/)
 *   🧠  I'm learning Rust, Javascript and NextJs
 *   🤝  I'm open to collaborating on [Runtipi](https://runtipi.io/)
 
@@ -44,7 +40,8 @@ I have 2,147,483,647 project in mind but i don't thinks that i will achieve to f
 <img alt="Static Badge" src="https://img.shields.io/badge/Vault-0?style=flat-square&logo=vault&logoColor=%23FFEC6E&logoSize=auto&color=000000">
 <img alt="Static Badge" src="https://img.shields.io/badge/ELK%20Stack-0?style=flat-square&logo=elastic&logoColor=%23005571&logoSize=auto&color=000000">
 <img alt="Static Badge" src="https://img.shields.io/badge/Node.JS-0?style=flat-square&logo=nodedotjs&logoColor=%235FA04E&logoSize=auto&color=000000">
-    
+</div>
+
 ## Skills / Thing That I Worked With
 
 <p align="left">
@@ -67,7 +64,11 @@ I have 2,147,483,647 project in mind but i don't thinks that i will achieve to f
 
 ## Badges
 
-<b>My GitHub Stats</b>
+<a href="https://www.credly.com/badges/b2a8eedf-9107-4f1c-a38b-72a5e8beb24d/public_url" justify-content="center" align-items="center"><img src="https://github.com/user-attachments/assets/aa70c00a-f7b9-4534-b0ac-d4791ca99c18" alt="google-cybersecurity-certificate" /></a>
+
+<a href="https://tryhackme.com/r/p/Qcoudeyr" justify-content="center" align-items="center"><img src="https://tryhackme-badges.s3.amazonaws.com/Qcoudeyr.png" alt="Your Image Badge" /></a>
+
+<b>My GitHub Stats</b> 
 
 <a href="http://www.github.com/qcoudeyr"><img src="https://github-readme-stats.vercel.app/api?username=qcoudeyr&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="qcoudeyr's GitHub stats" /></a>
 
